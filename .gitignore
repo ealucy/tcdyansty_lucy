@@ -1,0 +1,7 @@
+.*
+!.gitignore
+.ipynb_checkpoints
+cm1
+cm1_original
+cm1_tracking
+dask-scratch-space
